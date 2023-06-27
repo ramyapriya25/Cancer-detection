@@ -1,4 +1,6 @@
-# Cancer-detection
+# Cancer-detection using CNN
+
+
 Model: "sequential"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
